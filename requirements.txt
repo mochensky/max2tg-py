@@ -1,0 +1,6 @@
+aiofiles
+aiohttp
+aiosqlite
+pytz
+dotenv
+python-dotenv
