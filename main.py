@@ -14,7 +14,7 @@ import aiosqlite
 import pytz
 from dotenv import load_dotenv
 
-# https://github.com/mochensky/max-user-api
+# https://github.com/mochensky/max-user-api (0.1.0)
 from max_user_api import Client, Config, UserAgentConfig, Message
 from max_user_api.models import ControlAttachment, PhotoAttachment, VideoAttachment, FileAttachment
 from max_user_api.enums import MessageStatus
@@ -823,3 +823,4 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         logger.info("Interrupted")
+
