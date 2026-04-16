@@ -1,6 +1,9 @@
 # MAX2TG
 
 > [!CAUTION]
+> THIS IS DEPRECATED. USE https://github.com/mochensky/max2tg-go INSTEAD
+
+> [!CAUTION]
 > This is intentionally bad code (for now).  
 > 
 > Lots of copy-paste, no structure, poor error handling, no tests, everything in one file ☠️.  
