@@ -1,7 +1,7 @@
 # MAX2TG
 
 > [!CAUTION]
-> THIS IS DEPRECATED. USE https://github.com/mochensky/max2tg-go INSTEAD
+> THIS IS DEPRECATED. USE https://github.com/mochensky/max2tg INSTEAD
 
 > [!CAUTION]
 > This is intentionally bad code (for now).  
